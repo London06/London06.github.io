@@ -16,6 +16,14 @@ published: true
   table {
     border-collapse: collapse;
 }
+  
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
 
 table, th, td {
     border: 1px solid black;
